@@ -6,7 +6,7 @@ import "fmt"
 //
 // Everything lives in a package.
 // Every standalone program has a main package.
-// You can declare anything at package scope. But you can't you the short declaration operator.
+// You can declare anything at package scope. But you can't use the short declaration operator.
 //
 // Every name that is capitalized is exported.
 
